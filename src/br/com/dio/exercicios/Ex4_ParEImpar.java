@@ -25,6 +25,7 @@ public class Ex4_ParEImpar {
 
         System.out.println("Quantidade de pares: " + quantidadePares);
         System.out.println("Quantidade de ímpares: " + quantidadeImpares);
+        System.out.println(array);
 
 
     }
